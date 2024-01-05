@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LS-FlixAPP</string>
+    <string name="popular_movies">Popular Movies</string>
+    <string name="upcoming_movies">Upcoming Movies</string>
+</resources>
